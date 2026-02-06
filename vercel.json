@@ -1,6 +1,6 @@
 {
  "name": "hotel-react",
-  "private": true,
+ 
   "type": "module",
   "scripts": {
     "dev": "vite",
